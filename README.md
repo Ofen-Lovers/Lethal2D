@@ -1,4 +1,4 @@
-<img width="903" height="593" alt="image" src="https://github.com/user-attachments/assets/a978e764-c822-4bd6-9349-2807775d4a46" /># Lethal2D
+# Lethal2D
 
 **Lethal2D** is a 2D top-down survival-exploration game built with Python and Pygame. Inspired by the popular game *Lethal Company*, Lethal2D tasks players with exploring abandoned moons, collecting scrap, and returning to their ship to meet an ever-increasing profit quota—all while avoiding dangerous entities.
 
