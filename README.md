@@ -1,6 +1,8 @@
-# Lethal2D
+<img width="903" height="593" alt="image" src="https://github.com/user-attachments/assets/a978e764-c822-4bd6-9349-2807775d4a46" /># Lethal2D
 
 **Lethal2D** is a 2D top-down survival-exploration game built with Python and Pygame. Inspired by the popular game *Lethal Company*, Lethal2D tasks players with exploring abandoned moons, collecting scrap, and returning to their ship to meet an ever-increasing profit quota—all while avoiding dangerous entities.
+
+<img width="1008" height="564" alt="image" src="https://github.com/user-attachments/assets/e933c4cf-eaf1-4d78-a6d1-dd4d842002d0" />
 
 ## Game Overview
 In Lethal2D, you play as a contract worker for "The Company." Your objective is simple but dangerous:
@@ -10,6 +12,9 @@ In Lethal2D, you play as a contract worker for "The Company." Your objective is 
 4. **Deposit** loot to reach your quota and live another day.
 
 ## Gameplay Mechanics
+
+<img width="903" height="593" alt="image" src="https://github.com/user-attachments/assets/6b5a080b-771a-4150-92fe-7a717f8684d6" />
+
 - **Dynamic Environments**: Move between different rooms including your **Spaceship** (home base), the **Moon** surface, and the **Abandoned Building**.
 - **Time Management**: Monitor the in-game clock. If the day ends at midnight and you haven't met the quota, it's game over.
 - **Inventory System**: You can carry up to 5 items at a time. Manage your value and weight efficiently.
@@ -17,6 +22,9 @@ In Lethal2D, you play as a contract worker for "The Company." Your objective is 
 - **Enemies & Pathfinding**: Watch out for "Hoarder Bugs" and other entities. They don't have a health system yet, but touching one will make you drop all your hard-earned loot.
 
 ## Controls
+
+<img width="1022" height="574" alt="image" src="https://github.com/user-attachments/assets/dc021c4c-2138-4e78-9f6f-3ad8b136159e" />
+
 - **Movement**: `W`, `A`, `S`, `D` or Arrow Keys.
 - **Collect Scrap**: `Space` when standing over an item.
 - **Drop Loot at Ship**: `G` while inside the spaceship.
